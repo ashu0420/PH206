@@ -6,7 +6,7 @@ This repository contains C++ implementations of various **numerical methods** co
 
 ## Table of Contents
 
-1. [Bisection Method](#bisection-method)  
+1. [Bisection Method](#bisection-method.cpp)  
 2. [Fixed Point Iteration](#fixed-point-iteration)  
 3. [Newton–Raphson Method](#newton-raphson-method)  
 4. [Gauss Elimination](#gauss-elimination)  
